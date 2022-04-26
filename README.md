@@ -22,7 +22,15 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Walkthrough GIF
-![](#)
+![](https://github.com/ausamindec/Week-11-NoteTaker/blob/main/week-11.gif)
+
+## Walkthrough Video
+
+<h1 align="center">
+    <a href="https://drive.google.com/file/d/1nYe2ra-MzsZUFzLIz4DzsyJK9-wKo843/view?usp=sharing" target="_blank">
+     View Walkthrough Video
+    </a>
+</h1>
 
 
 
