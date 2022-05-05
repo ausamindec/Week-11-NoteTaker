@@ -1,10 +1,9 @@
 # Note Taker
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
 
-### Github : https://github.com/ausamindec/Week-11-NoteTaker.git
+### Github : [Week-11-NoteTaker](https://github.com/ausamindec/Week-11-NoteTaker.git)
 
-### Deployed Application Link:
-https://aminnotetaker.herokuapp.com/
+### Deployed Application Link : [Amin Note Taker](https://aminnotetaker.herokuapp.com/)
 
 ## Description
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
